@@ -1,5 +1,13 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=20403271)
-# CSCI 602 REST API
+# Mutual Inclusion -- CSCI 602 -- Fall 2025 Group Project
+
+This is the repository for the CSCI 602 Group Project that consists of the 
+following students:
+
++ Christian Soto
++ Dan Johnson
++ Erin McCall
++ Tuck Williamson
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -54,7 +62,7 @@ Access the API by visiting [http://localhost:5001/swagger-ui/index.html](http://
 Setting up the datasource within IntelliJ should be straightforward with username and password. If you're using a
 Heroku datasource then you will need to set the following settings on the Advanced tab
 
-![Datasource](./images/datasource_settings.png)
+![Datasource](images/datasource_settings.png)
 
 ## Resources
 
